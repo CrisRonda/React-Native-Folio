@@ -38,10 +38,6 @@ Contact me to review the source code
 
 # Screenshots
 
-<div style='margin-bottom: 8px'>
-<img width='350px' align="center" src="https://media.giphy.com/media/IlHzOxrXOCrxUoS8oL/giphy.gif"/>
-<img width='350px' align="center" src="https://media.giphy.com/media/csVkdeBiYd55DeNmuP/giphy.gif"/>
-</div>
 
 
 
