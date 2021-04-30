@@ -41,37 +41,37 @@ Contact me to review the source code
 ## Gallery Example
 
 <div align="center" justify="center">
-  <img src="./ScreenShots/Gallery-ios.gif" height="420px" style="margin: 16px">
-  <img src="./ScreenShots/Gallery-and.gif" height="420px" style="margin: 16px">
+  <img src="./screenshots/Gallery-ios.gif" height="420px" style="margin: 16px">
+  <img src="./screenshots/Gallery-and.gif" height="420px" style="margin: 16px">
 </div>
 
 ## Grocery Example 
 
 <div align="center" justify="center">
-  <img src="./ScreenShots/Grocery-ios.gif" height="420px" style="margin: 16px">
-  <img src="./ScreenShots/Grocery-and.gif" height="420px" style="margin: 16px">
+  <img src="./screenshots/Grocery-ios.gif" height="420px" style="margin: 16px">
+  <img src="./screenshots/Grocery-and.gif" height="420px" style="margin: 16px">
 </div>
 
 ## Unsplash Example
 
 <div align="center" justify="center">
-  <img src="./ScreenShots/unsplash-ios.gif" height="420px" style="margin: 16px">
-  <img src="./ScreenShots/unsplash-and.gif" height="420px" style="margin: 16px">
+  <img src="./screenshots/unsplash-ios.gif" height="420px" style="margin: 16px">
+  <img src="./screenshots/unsplash-and.gif" height="420px" style="margin: 16px">
 </div>
 
 ## GraphQL Example with CRUD 
 
 <div align="center" justify="center">
-  <img src="./ScreenShots/GraphQL-ios.gif" height="420px" style="margin: 16px">
-  <img src="./ScreenShots/GraphQL-and.gif" height="420px" style="margin: 16px">
+  <img src="./screenshots/GraphQL-ios.gif" height="420px" style="margin: 16px">
+  <img src="./screenshots/GraphQL-and.gif" height="420px" style="margin: 16px">
 </div>
 
 
 # Dark theme
 
 <div align="center" justify="center">
-  <img src="./ScreenShots/color-ios.gif" height="420px" style="margin: 16px">
-  <img src="./ScreenShots/color-and.gif" height="420px" style="margin: 16px">
+  <img src="./screenshots/color-ios.gif" height="420px" style="margin: 16px">
+  <img src="./screenshots/color-and.gif" height="420px" style="margin: 16px">
 </div>
 
 
