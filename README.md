@@ -17,6 +17,10 @@ Contact me to review the source code
 
 <br />
 
+# Thanks
+To the developers and designers who make it possible to use their resources for free.
+[Unsplash](https://unsplash.com/developers)
+[Lottie](https://lottiefiles.com/)
 # Motivation
 
 # Libraries and Tools
